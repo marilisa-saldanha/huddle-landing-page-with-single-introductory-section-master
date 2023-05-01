@@ -137,6 +137,7 @@ footer .social i:hover {
   body {
     background: url('../images/bg-desktop.svg'), var(--violet);
     background-repeat: no-repeat, no-repeat;
+    background-size: cover;
   }
 
   header {
@@ -257,7 +258,7 @@ footer .social i:hover {
   
   .illustration img {
     padding-top: 2rem;
-    width: 46.5rem;
+    width: 47.5rem;
   }
 
   .content {
@@ -272,7 +273,7 @@ footer .social i:hover {
   .content p {
     font-size: 1rem;
     line-height: 2rem;
-    padding: 0 3rem 0 0;
+    padding: 0 2rem 0 0;
   }
 
   .content button {
