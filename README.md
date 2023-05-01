@@ -13,8 +13,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL]()
-- [Live Site URL]()
+- [Solution URL](https://www.frontendmentor.io/solutions/huddle-landing-page-using-html-css-and-flexbox-oyhwQ0TgzW)
+- [Live Site URL](https://marilisa-saldanha.github.io/huddle-landing-page-with-single-introductory-section-master/)
 
 ## My process
 
